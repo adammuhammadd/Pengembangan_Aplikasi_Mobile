@@ -18,12 +18,12 @@ class ButtonCount extends Component {
         return (
             <div>
                 <div>
-                <button onClick={this.decrement} style={styles.whitespace}>-</button>
+                <button onClick={this.decrement} style={styles.whitespace}>-1</button>
                 <span style={styles.whitespace}>{this.props.count}</span>
-                <button onClick={this.increment} style={styles.whitespace}>+</button>
+                <button onClick={this.increment} style={styles.whitespace}>+1</button>
             </div>
             <p></p>
-            <div><button onClick={this.reset} style={styles.whitespace}>reset</button></div>
+            <div><button onClick={this.reset} style={styles.whitespace}>kembali ke nol</button></div>
             </div>
         )
     }
