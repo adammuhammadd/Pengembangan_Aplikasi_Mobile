@@ -29,14 +29,6 @@ npm start
 ```
 Buka browser dan ketikan alamat: http://localhost:3000
 
-### Contoh Tampilan
-![Alt Text](reactReduxIntro.gif)
 
-### Apa Yang Harus Diselesaikan Pada Latihan Ini
-Aplikasi ini dibuat hanya menggunakan state. Tugas yang harus diselesaikan adalah ubah aplikasi ini menggunakan state management react-redux.
-
-- [Youtube Tutorial](https://www.youtube.com/watch?v=YjQKBERnDOs)
-- [React Redux](https://react-redux.js.org/introduction/quick-start)
-- [Contoh aplikasi yang mengimplementasikan react-redux](https://github.com/dceddia/redux-intro)
 
 
